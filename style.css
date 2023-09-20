@@ -1,0 +1,182 @@
+
+  
+
+  body {
+    font-family: 'Syne Mono', monospace;
+    background-image: url("images/stars.jpg") ;
+    background-color: #f0f0f0;
+    background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-position: center; 
+  color: purple;
+  }
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px ;
+    text-align: center;
+    font-size: 50px;
+  }
+
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+
+
+  /* link */
+  a {
+    color: #0078d4;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+
+  .wavytext {
+
+   font-weight: bold;
+   font-size: 30px;
+  }
+
+  .locationtext{
+font-size: 30px;
+    font-weight: bolder;
+    color: rgb(255, 191, 0);
+    letter-spacing: 3px;
+    padding-left: 30px;
+    padding-top: 90px;
+    
+
+  }
+
+  .locationtext2{
+text-align: center;
+    font-weight: bolder;
+    color: rgb(255, 191, 0);
+    letter-spacing: 3px;
+    padding-left: 80px;
+    padding-top: 90px;
+    font-size: 30px;
+    
+
+  }
+
+  .locationtext3{
+    text-align: left;
+        font-weight: bolder;
+        color: rgb(255, 191, 0);
+        letter-spacing: 3px;
+        padding-left: 80px;
+        padding-top: 300px;
+        font-size: 30px;
+        
+    
+      }
+
+
+
+.small {
+    width: 200px;
+    height: 250px; 
+    padding-left: 60px;
+    padding-top: 40px;
+    transform: rotate(-20deg);
+    z-index: 3;
+  }
+
+  .girlfeet{
+
+    width: 180px;
+    height: 150px; 
+    z-index: 2; 
+
+  }
+  
+  .styledsong{
+
+    padding-left: 20px;
+  }
+
+  .youtubevideo{
+
+    padding: 40px;
+
+  }
+
+  .hall1{
+    width: 450px;
+    height: 300px; 
+    padding-left: 60px;
+    padding-top: 40px;
+    z-index: 3;
+
+  }
+
+
+
+.square-container {
+    width: 1100px;
+    height: 80px; 
+    text-align: right;
+    z-index: 3;
+  }
+  
+  .line {
+    color: gold;
+    font-size: 100px; 
+    line-height: 1.2; 
+    margin-bottom: 5px; 
+  }
+  
+
+  .babyfeet{
+
+    width: 180px;
+    height: 250px; 
+    z-index: 2;
+
+  }
+
+  .panda{
+
+
+    width: 320px;
+    height: 280px; 
+    padding-left: 20px;
+    z-index: 4;
+  }
+
+  .houston{
+    width: 820px;
+    height: 400px; 
+    padding-left: 20px;
+    z-index: 4;
+
+  }
+
+  .rooster{
+    width: 300px;
+    height: 310px; 
+    z-index: 4;
+    margin-top: 120px;
+    margin-left: -150px;
+  }
+
+  .bob{
+    width: 360px;
+    height: 310px; 
+    z-index: 4;
+    margin-top: 120px;
+    margin-left: -150px;
+  }
