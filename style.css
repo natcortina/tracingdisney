@@ -9,7 +9,7 @@
   background-repeat: no-repeat; 
   background-attachment: fixed; 
   background-position: center; 
-  color: purple;
+  color: rgb(119, 114, 255);
   }
   
   .header {
@@ -30,17 +30,6 @@
     margin-bottom: 10px;
   }
   
-
-
-  /* link */
-  a {
-    color: #0078d4;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
   
 
   .wavytext {
@@ -180,3 +169,111 @@ text-align: center;
     margin-top: 120px;
     margin-left: -150px;
   }
+
+  .square-container2 {
+    width: 1100px;
+    height: 80px; 
+    text-align: left;
+    z-index: 3;
+  }
+
+  .woman{
+
+    width: 420px;
+    height: 310px; 
+    z-index: 4;
+    margin-top: 120px;
+    margin-left: 150px;
+
+  }
+
+
+  .mocaa{
+    width: 380px;
+    height: 160px; 
+    z-index: 4;
+    margin-top: 120px;
+    margin-left: 150px;
+  }
+
+
+  .subway{
+    width: 380px;
+    height: 260px; 
+    margin-top: 120px;
+    margin-left: 150px;
+  }
+
+
+  .locationtext4{
+    text-align: left;
+        font-weight: bolder;
+        color: rgb(255, 191, 0);
+        letter-spacing: 3px;
+        padding-left: 80px;
+        padding-top: 100px;
+        font-size: 30px;
+        
+    
+      }
+
+      .lacma{
+        width: 1500px;
+        height: 280px; 
+        margin-top: 120px;
+        margin-left: 150px;
+
+      }
+
+      .picasso{
+        width: 400px;
+        height: 480px; 
+        margin-top: -450px;
+        margin-left: 150px;
+
+      }
+
+
+      .diego{
+        width: 400px;
+        height: 480px; 
+        margin-top: -150px;
+        margin-left: 150px;
+
+      }
+
+      .boring{
+        width: 300px;
+        height: 280px; 
+        margin-top: -10px;
+        margin-left: 150px;
+        transform: rotate(-20deg);
+
+      }
+
+      .wash{
+
+        width: 420px;
+        height: 310px; 
+        z-index: 4;
+        margin-top: 120px;
+        margin-left: -10px;
+    
+      }
+
+      .endtext{
+        font-weight: bold;
+        font-size: 40px;
+        padding-left: 100px;
+        padding-top: 100px;
+
+      }
+
+      .rusel{
+        width: 350px;
+        height: 300px; 
+        margin-top: -200px;
+        margin-left: 550px;
+
+      }
+
